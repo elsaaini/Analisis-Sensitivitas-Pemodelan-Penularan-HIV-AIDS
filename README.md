@@ -3,7 +3,8 @@
 Proyek ini bertujuan untuk mengidentifikasi parameter-parameter yang berpengaruh signifikan terhadap bilangan reproduksi dasar ($\mathcal{R}_0$) dalam model matematika penularan virus HIV. Nilai $\mathcal{R}_0$ merupakan rata-rata jumlah individu baru yang terinfeksi HIV akibat satu individu terinfeksi dalam populasi yang sepenuhnya rentan.
 ## Variabel dan Parameter
 * Variabel
-  | Variabel | Keterangan |
+  
+| Variabel | Keterangan |
 |----------|--------|
 | $S(t)$ | Jumlah individu sehat yang rentan terkena HIV pada waktu $t$ |
 | $I(t)$ | Jumlah individu terinfeksi HIV pada waktu $t$ |
@@ -11,6 +12,7 @@ Proyek ini bertujuan untuk mengidentifikasi parameter-parameter yang berpengaruh
 | $C(t)$ | Jumlah individu yang sedang menjalani terapi ART pada waktu $t$
 
 * Parameter
+  
 | Parameter | Keterangan |
 |----------|--------|
 | $\Omega$ | Laju masuk individu baru ke subpopulasi rentan |
