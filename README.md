@@ -29,6 +29,7 @@ Proyek ini bertujuan untuk mengidentifikasi parameter-parameter yang berpengaruh
 
 ## Rumus Bilangan Reproduksi Dasar
 $$ \mathcal{R}_0 = \frac{\Omega(\eta(\alpha_2K_3 +\alpha_3\rho_2) + K_2(\alpha_1K_3+ \alpha_3\rho_1))}{K_1K_2K_3\mu} $$
+dengan $K_1 = \mu + \gamma_1 + \rho_1 + \eta$, $K_2 =  \mu +\gamma_2+\rho_2$, dan $K_3 = \mu + \gamma_3$.
 ## Tools
 * Python
 ## Tahapan Analisis
